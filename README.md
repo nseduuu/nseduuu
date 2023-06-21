@@ -1,6 +1,6 @@
 # Me chamo Edu! Seja bem vindo aos meus repositórios #
      
-- 🤖 Estou estudando um curso de Desenvolvimento de sistemas
+- 🤖 Estou cursando Desenvolvimento de sistemas pela ETEC
 - 🧑‍💻 Minhas linguaguem favorita no momento é C/C++
 
 ## Aprendendo ##
