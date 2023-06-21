@@ -1,4 +1,4 @@
-# Me chamo Edu! Seja bem vindo aos meus repositórios #
+# Ola, me chamo Edu! #
      
 - 🤖 Estou cursando Desenvolvimento de sistemas pela ETEC
 - 🧑‍💻 Minhas linguaguem favorita no momento é C/C++
