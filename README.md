@@ -1,7 +1,7 @@
 # Ola, me chamo Edu! #
      
 - 🤖 Estou cursando Desenvolvimento de sistemas pela ETEC
-- 🧑‍💻 Minhas linguaguem favorita no momento é C/C++
+- 🧑‍💻 Minhas linguagem favorita no momento é C/C++
 
 <div>
   <a href="https://github.com/nseduuu" >
