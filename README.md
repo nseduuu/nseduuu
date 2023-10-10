@@ -1,7 +1,7 @@
 # Ola, me chamo Edu! #
      
 - 🤖 Estou cursando Desenvolvimento de sistemas pela ETEC
-- 🧑‍💻 Minhas linguagem favorita no momento é C/C++
+- 🧑‍💻 Minhas linguagens favoritas no momento são C#/JavaScript/C++
 
   <a href="https://github.com/nseduuu" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nseduuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
