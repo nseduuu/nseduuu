@@ -6,11 +6,9 @@
 </div>
 
 <hr>
-<h3>About Me ✨</h3>
+<h3>About Me</h3>
 <div align="left" >
- Software developer, from São Paulo! Stacks focused on backend development. <br>
- Currently studying at ETEC :heart: <br>
- Ambition to finish my training and apply my skills in the market 🌱
+ Software developer, from São Paulo! 
 </div>
 <br>
 
